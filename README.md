@@ -1,2 +1,5 @@
 # .github
-Configurações do perfil do projeto
+
+Arquivos de configuração da página da organização =)
+
+
