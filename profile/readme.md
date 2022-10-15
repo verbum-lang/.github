@@ -25,7 +25,7 @@ Verbum, a simple and intuitive programming language, supports general concepts s
 
 <br>
 
-**If you liked this project, or if it was useful to you, please [consider becoming a sponsor](https://github.com/sponsors/verbum-paper) :blue_heart:**
+**If you liked this project, or if it was useful to you, please [consider becoming a sponsor](https://github.com/sponsors/verbum-lang) :blue_heart:**
 
 <br>
 
